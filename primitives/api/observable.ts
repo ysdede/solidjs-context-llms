@@ -2,14 +2,14 @@
 source_repo: solid
 source_path: solid\packages\solid\src\reactive\observable.ts
 domain: primitives
-extracted_at: "2026-02-01T17:42:52.056Z"
+extracted_at: "2026-02-01T17:47:34.552Z"
 ---
 
 ---
 source_repo: solid
 source_path: solid\packages\solid\src\reactive\observable.ts
 domain: unknown
-extracted_at: "2026-02-01T17:42:52.056Z"
+extracted_at: "2026-02-01T17:47:34.552Z"
 ---
 
 ## API Documentation 1

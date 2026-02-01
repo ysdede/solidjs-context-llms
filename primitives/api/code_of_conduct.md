@@ -2,14 +2,14 @@
 source_repo: solid
 source_path: solid\CODE_OF_CONDUCT.md
 domain: primitives
-extracted_at: "2026-02-01T17:42:51.861Z"
+extracted_at: "2026-02-01T17:47:34.344Z"
 ---
 
 ---
 source_repo: solid
 source_path: solid\CODE_OF_CONDUCT.md
 domain: unknown
-extracted_at: "2026-02-01T17:42:51.861Z"
+extracted_at: "2026-02-01T17:47:34.344Z"
 ---
 
 # Contributor Covenant Code of Conduct

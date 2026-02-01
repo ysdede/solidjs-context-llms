@@ -2,14 +2,14 @@
 source_repo: solid-start
 source_path: solid-start\apps\tests\vitest.config.ts
 domain: ssr
-extracted_at: "2026-02-01T17:42:52.035Z"
+extracted_at: "2026-02-01T17:47:34.528Z"
 ---
 
 ---
 source_repo: solid-start
 source_path: solid-start\apps\tests\vitest.config.ts
 domain: unknown
-extracted_at: "2026-02-01T17:42:52.035Z"
+extracted_at: "2026-02-01T17:47:34.528Z"
 ---
 
 ## API Documentation 1

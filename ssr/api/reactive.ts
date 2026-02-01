@@ -2,14 +2,14 @@
 source_repo: solid
 source_path: solid\packages\solid\src\server\reactive.ts
 domain: ssr
-extracted_at: "2026-02-01T17:42:52.053Z"
+extracted_at: "2026-02-01T17:47:34.546Z"
 ---
 
 ---
 source_repo: solid
 source_path: solid\packages\solid\src\server\reactive.ts
 domain: unknown
-extracted_at: "2026-02-01T17:42:52.053Z"
+extracted_at: "2026-02-01T17:47:34.546Z"
 ---
 
 ## API Documentation 1

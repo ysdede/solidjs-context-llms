@@ -1,6 +1,6 @@
 {
   "domain": "primitives",
-  "generated_at": "2026-02-01T17:42:52.085Z",
+  "generated_at": "2026-02-01T17:47:34.582Z",
   "stats": {
     "total": 43,
     "api": 43,
@@ -94,6 +94,20 @@
         "summary": "API documentation for solid\\packages\\test-integration\\CHANGELOG.md"
       },
       {
+        "path": "solid\\packages\\babel-preset-solid\\README.md",
+        "name": "solid\\packages\\babel-preset-solid\\README.md",
+        "repo": "solid",
+        "primitive": null,
+        "summary": "API documentation for solid\\packages\\babel-preset-solid\\README.md"
+      },
+      {
+        "path": "solid\\packages\\babel-preset-solid\\CHANGELOG.md",
+        "name": "solid\\packages\\babel-preset-solid\\CHANGELOG.md",
+        "repo": "solid",
+        "primitive": null,
+        "summary": "API documentation for solid\\packages\\babel-preset-solid\\CHANGELOG.md"
+      },
+      {
         "path": "solid\\packages\\solid-element\\README.md",
         "name": "solid\\packages\\solid-element\\README.md",
         "repo": "solid",
@@ -120,20 +134,6 @@
         "repo": "solid",
         "primitive": null,
         "summary": "API documentation for solid\\packages\\solid\\CHANGELOG.md"
-      },
-      {
-        "path": "solid\\packages\\babel-preset-solid\\README.md",
-        "name": "solid\\packages\\babel-preset-solid\\README.md",
-        "repo": "solid",
-        "primitive": null,
-        "summary": "API documentation for solid\\packages\\babel-preset-solid\\README.md"
-      },
-      {
-        "path": "solid\\packages\\babel-preset-solid\\CHANGELOG.md",
-        "name": "solid\\packages\\babel-preset-solid\\CHANGELOG.md",
-        "repo": "solid",
-        "primitive": null,
-        "summary": "API documentation for solid\\packages\\babel-preset-solid\\CHANGELOG.md"
       },
       {
         "path": "solid\\packages\\solid\\web\\README.md",

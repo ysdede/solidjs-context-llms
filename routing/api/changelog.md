@@ -2,14 +2,14 @@
 source_repo: solid-router
 source_path: solid-router\CHANGELOG.md
 domain: routing
-extracted_at: "2026-02-01T17:42:51.859Z"
+extracted_at: "2026-02-01T17:47:34.342Z"
 ---
 
 ---
 source_repo: solid-router
 source_path: solid-router\CHANGELOG.md
 domain: unknown
-extracted_at: "2026-02-01T17:42:51.859Z"
+extracted_at: "2026-02-01T17:47:34.342Z"
 ---
 
 # @solidjs/router

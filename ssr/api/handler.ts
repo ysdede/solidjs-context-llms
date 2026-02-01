@@ -2,14 +2,14 @@
 source_repo: solid-start
 source_path: solid-start\packages\start\src\server\spa\handler.ts
 domain: ssr
-extracted_at: "2026-02-01T17:42:52.057Z"
+extracted_at: "2026-02-01T17:47:34.553Z"
 ---
 
 ---
 source_repo: solid-start
 source_path: solid-start\packages\start\src\server\spa\handler.ts
 domain: unknown
-extracted_at: "2026-02-01T17:42:52.057Z"
+extracted_at: "2026-02-01T17:47:34.553Z"
 ---
 
 ## API Documentation 1

@@ -2,14 +2,14 @@
 source_repo: solid
 source_path: solid\packages\solid\h\README.md
 domain: primitives
-extracted_at: "2026-02-01T17:42:51.871Z"
+extracted_at: "2026-02-01T17:47:34.355Z"
 ---
 
 ---
 source_repo: solid
 source_path: solid\packages\solid\h\README.md
 domain: unknown
-extracted_at: "2026-02-01T17:42:51.871Z"
+extracted_at: "2026-02-01T17:47:34.355Z"
 ---
 
 # Solid HyperScript

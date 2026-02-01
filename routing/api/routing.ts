@@ -2,14 +2,14 @@
 source_repo: solid-router
 source_path: solid-router\src\routing.ts
 domain: routing
-extracted_at: "2026-02-01T17:42:52.033Z"
+extracted_at: "2026-02-01T17:47:34.526Z"
 ---
 
 ---
 source_repo: solid-router
 source_path: solid-router\src\routing.ts
 domain: unknown
-extracted_at: "2026-02-01T17:42:52.033Z"
+extracted_at: "2026-02-01T17:47:34.526Z"
 ---
 
 ## API Documentation 1

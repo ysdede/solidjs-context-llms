@@ -2,14 +2,14 @@
 source_repo: solid
 source_path: solid\packages\solid\store\README.md
 domain: core-reactivity
-extracted_at: "2026-02-01T17:42:51.870Z"
+extracted_at: "2026-02-01T17:47:34.354Z"
 ---
 
 ---
 source_repo: solid
 source_path: solid\packages\solid\store\README.md
 domain: unknown
-extracted_at: "2026-02-01T17:42:51.870Z"
+extracted_at: "2026-02-01T17:47:34.354Z"
 ---
 
 # Solid Store

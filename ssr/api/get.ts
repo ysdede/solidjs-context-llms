@@ -2,14 +2,14 @@
 source_repo: solid-start
 source_path: solid-start\packages\start\src\shared\GET.ts
 domain: ssr
-extracted_at: "2026-02-01T17:42:52.046Z"
+extracted_at: "2026-02-01T17:47:34.539Z"
 ---
 
 ---
 source_repo: solid-start
 source_path: solid-start\packages\start\src\shared\GET.ts
 domain: unknown
-extracted_at: "2026-02-01T17:42:52.046Z"
+extracted_at: "2026-02-01T17:47:34.539Z"
 ---
 
 ## API Documentation 1

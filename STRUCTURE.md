@@ -1,6 +1,6 @@
 # SolidJS Knowledge Base Structure
 
-Generated: 2026-02-01T17:42:52.437Z
+Generated: 2026-02-01T17:47:34.986Z
 
 ## Domains
 

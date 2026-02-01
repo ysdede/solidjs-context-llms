@@ -2,14 +2,14 @@
 source_repo: solid-start
 source_path: solid-start\apps\fixtures\bare\README.md
 domain: ssr
-extracted_at: "2026-02-01T17:42:51.869Z"
+extracted_at: "2026-02-01T17:47:34.353Z"
 ---
 
 ---
 source_repo: solid-start
 source_path: solid-start\apps\fixtures\bare\README.md
 domain: unknown
-extracted_at: "2026-02-01T17:42:51.869Z"
+extracted_at: "2026-02-01T17:47:34.353Z"
 ---
 
 # SolidStart

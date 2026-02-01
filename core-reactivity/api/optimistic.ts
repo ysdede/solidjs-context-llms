@@ -2,14 +2,14 @@
 source_repo: signals
 source_path: signals\src\store\optimistic.ts
 domain: core-reactivity
-extracted_at: "2026-02-01T17:42:52.041Z"
+extracted_at: "2026-02-01T17:47:34.534Z"
 ---
 
 ---
 source_repo: signals
 source_path: signals\src\store\optimistic.ts
 domain: unknown
-extracted_at: "2026-02-01T17:42:52.041Z"
+extracted_at: "2026-02-01T17:47:34.534Z"
 ---
 
 ## API Documentation 1

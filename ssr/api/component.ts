@@ -2,14 +2,14 @@
 source_repo: solid
 source_path: solid\packages\solid\src\render\component.ts
 domain: ssr
-extracted_at: "2026-02-01T17:42:52.054Z"
+extracted_at: "2026-02-01T17:47:34.551Z"
 ---
 
 ---
 source_repo: solid
 source_path: solid\packages\solid\src\render\component.ts
 domain: unknown
-extracted_at: "2026-02-01T17:42:52.054Z"
+extracted_at: "2026-02-01T17:47:34.551Z"
 ---
 
 ## API Documentation 1

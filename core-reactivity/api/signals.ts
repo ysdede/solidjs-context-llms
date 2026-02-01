@@ -2,7 +2,7 @@
 source_repo: signals
 source_path: signals\src\signals.ts
 domain: core-reactivity
-extracted_at: "2026-02-01T17:42:52.034Z"
+extracted_at: "2026-02-01T17:47:34.526Z"
 primitive: createEffect
 ---
 
@@ -10,7 +10,7 @@ primitive: createEffect
 source_repo: signals
 source_path: signals\src\signals.ts
 domain: unknown
-extracted_at: "2026-02-01T17:42:52.034Z"
+extracted_at: "2026-02-01T17:47:34.526Z"
 ---
 
 ## API Documentation 1

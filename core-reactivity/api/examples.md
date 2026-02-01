@@ -2,14 +2,14 @@
 source_repo: solid
 source_path: solid\documentation\resources\examples.md
 domain: core-reactivity
-extracted_at: "2026-02-01T17:42:51.866Z"
+extracted_at: "2026-02-01T17:47:34.348Z"
 ---
 
 ---
 source_repo: solid
 source_path: solid\documentation\resources\examples.md
 domain: unknown
-extracted_at: "2026-02-01T17:42:51.866Z"
+extracted_at: "2026-02-01T17:47:34.348Z"
 ---
 
 # Examples
