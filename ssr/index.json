@@ -1,6 +1,6 @@
 {
   "domain": "ssr",
-  "generated_at": "2026-02-01T15:22:42.942Z",
+  "generated_at": "2026-02-01T17:31:03.271Z",
   "stats": {
     "total": 36,
     "api": 36,
@@ -73,13 +73,6 @@
         "summary": "API documentation for solid\\packages\\solid-ssr\\CHANGELOG.md"
       },
       {
-        "path": "solid-start\\apps\\fixtures\\todomvc\\README.md",
-        "name": "solid-start\\apps\\fixtures\\todomvc\\README.md",
-        "repo": "solid-start",
-        "primitive": null,
-        "summary": "API documentation for solid-start\\apps\\fixtures\\todomvc\\README.md"
-      },
-      {
         "path": "solid-start\\apps\\fixtures\\notes\\README.md",
         "name": "solid-start\\apps\\fixtures\\notes\\README.md",
         "repo": "solid-start",
@@ -87,11 +80,11 @@
         "summary": "API documentation for solid-start\\apps\\fixtures\\notes\\README.md"
       },
       {
-        "path": "solid-start\\apps\\fixtures\\nitro-3\\README.md",
-        "name": "solid-start\\apps\\fixtures\\nitro-3\\README.md",
+        "path": "solid-start\\apps\\fixtures\\todomvc\\README.md",
+        "name": "solid-start\\apps\\fixtures\\todomvc\\README.md",
         "repo": "solid-start",
         "primitive": null,
-        "summary": "API documentation for solid-start\\apps\\fixtures\\nitro-3\\README.md"
+        "summary": "API documentation for solid-start\\apps\\fixtures\\todomvc\\README.md"
       },
       {
         "path": "solid-start\\apps\\fixtures\\hackernews\\README.md",
@@ -99,6 +92,13 @@
         "repo": "solid-start",
         "primitive": null,
         "summary": "API documentation for solid-start\\apps\\fixtures\\hackernews\\README.md"
+      },
+      {
+        "path": "solid-start\\apps\\fixtures\\nitro-3\\README.md",
+        "name": "solid-start\\apps\\fixtures\\nitro-3\\README.md",
+        "repo": "solid-start",
+        "primitive": null,
+        "summary": "API documentation for solid-start\\apps\\fixtures\\nitro-3\\README.md"
       },
       {
         "path": "solid-start\\apps\\fixtures\\experiments\\README.md",

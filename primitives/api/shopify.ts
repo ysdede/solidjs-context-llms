@@ -2,14 +2,14 @@
 source_repo: solid-site
 source_path: solid-site\src\utils\shopify.ts
 domain: primitives
-extracted_at: "2026-02-01T15:22:42.893Z"
+extracted_at: "2026-02-01T17:31:03.222Z"
 ---
 
 ---
 source_repo: solid-site
 source_path: solid-site\src\utils\shopify.ts
 domain: unknown
-extracted_at: "2026-02-01T15:22:42.893Z"
+extracted_at: "2026-02-01T17:31:03.222Z"
 ---
 
 ## API Documentation 1

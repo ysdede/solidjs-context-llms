@@ -2,14 +2,14 @@
 source_repo: solid-router
 source_path: solid-router\src\data\createAsync.ts
 domain: routing
-extracted_at: "2026-02-01T15:22:42.901Z"
+extracted_at: "2026-02-01T17:31:03.223Z"
 ---
 
 ---
 source_repo: solid-router
 source_path: solid-router\src\data\createAsync.ts
 domain: unknown
-extracted_at: "2026-02-01T15:22:42.901Z"
+extracted_at: "2026-02-01T17:31:03.223Z"
 ---
 
 ## API Documentation 1

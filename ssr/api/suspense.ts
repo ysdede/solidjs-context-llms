@@ -2,7 +2,7 @@
 source_repo: solid
 source_path: solid\packages\solid\src\render\Suspense.ts
 domain: ssr
-extracted_at: "2026-02-01T15:22:42.910Z"
+extracted_at: "2026-02-01T17:31:03.240Z"
 primitive: Suspense
 ---
 
@@ -10,7 +10,7 @@ primitive: Suspense
 source_repo: solid
 source_path: solid\packages\solid\src\render\Suspense.ts
 domain: unknown
-extracted_at: "2026-02-01T15:22:42.910Z"
+extracted_at: "2026-02-01T17:31:03.240Z"
 ---
 
 ## API Documentation 1

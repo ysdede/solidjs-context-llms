@@ -2,14 +2,14 @@
 source_repo: solid-docs
 source_path: solid-docs\WRITING.md
 domain: primitives
-extracted_at: "2026-02-01T15:22:42.721Z"
+extracted_at: "2026-02-01T17:31:03.044Z"
 ---
 
 ---
 source_repo: solid-docs
 source_path: solid-docs\WRITING.md
 domain: unknown
-extracted_at: "2026-02-01T15:22:42.721Z"
+extracted_at: "2026-02-01T17:31:03.044Z"
 ---
 
 # Solid Docs Writing Guide

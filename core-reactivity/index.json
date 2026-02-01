@@ -1,6 +1,6 @@
 {
   "domain": "core-reactivity",
-  "generated_at": "2026-02-01T15:22:42.942Z",
+  "generated_at": "2026-02-01T17:31:03.272Z",
   "stats": {
     "total": 38,
     "api": 38,
@@ -262,18 +262,18 @@
         "summary": "API documentation for signals\\src\\core\\context.ts"
       },
       {
-        "path": "solid\\packages\\solid\\src\\reactive\\signal.ts",
-        "name": "solid\\packages\\solid\\src\\reactive\\signal.ts",
-        "repo": "solid",
-        "primitive": "createEffect",
-        "summary": "API documentation for solid\\packages\\solid\\src\\reactive\\signal.ts"
-      },
-      {
         "path": "solid\\packages\\solid\\store\\src\\store.ts",
         "name": "solid\\packages\\solid\\store\\src\\store.ts",
         "repo": "solid",
         "primitive": null,
         "summary": "API documentation for solid\\packages\\solid\\store\\src\\store.ts"
+      },
+      {
+        "path": "solid\\packages\\solid\\src\\reactive\\signal.ts",
+        "name": "solid\\packages\\solid\\src\\reactive\\signal.ts",
+        "repo": "solid",
+        "primitive": "createEffect",
+        "summary": "API documentation for solid\\packages\\solid\\src\\reactive\\signal.ts"
       }
     ],
     "examples": []

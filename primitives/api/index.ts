@@ -2,14 +2,14 @@
 source_repo: solid
 source_path: solid\packages\solid\web\src\index.ts
 domain: primitives
-extracted_at: "2026-02-01T15:22:42.908Z"
+extracted_at: "2026-02-01T17:31:03.237Z"
 ---
 
 ---
 source_repo: solid
 source_path: solid\packages\solid\web\src\index.ts
 domain: unknown
-extracted_at: "2026-02-01T15:22:42.908Z"
+extracted_at: "2026-02-01T17:31:03.237Z"
 ---
 
 ## API Documentation 1

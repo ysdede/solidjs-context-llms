@@ -2,14 +2,14 @@
 source_repo: solid-start
 source_path: solid-start\packages\start\src\config\vite-utils.ts
 domain: ssr
-extracted_at: "2026-02-01T15:22:42.906Z"
+extracted_at: "2026-02-01T17:31:03.235Z"
 ---
 
 ---
 source_repo: solid-start
 source_path: solid-start\packages\start\src\config\vite-utils.ts
 domain: unknown
-extracted_at: "2026-02-01T15:22:42.906Z"
+extracted_at: "2026-02-01T17:31:03.235Z"
 ---
 
 ## API Documentation 1

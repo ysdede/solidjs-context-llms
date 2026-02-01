@@ -2,14 +2,14 @@
 source_repo: solid
 source_path: solid\CONTRIBUTING.md
 domain: primitives
-extracted_at: "2026-02-01T15:22:42.723Z"
+extracted_at: "2026-02-01T17:31:03.045Z"
 ---
 
 ---
 source_repo: solid
 source_path: solid\CONTRIBUTING.md
 domain: unknown
-extracted_at: "2026-02-01T15:22:42.723Z"
+extracted_at: "2026-02-01T17:31:03.045Z"
 ---
 
 # Contributing to SolidJS

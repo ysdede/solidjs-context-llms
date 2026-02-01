@@ -2,14 +2,14 @@
 source_repo: solid-start
 source_path: solid-start\packages\start\src\shared\HttpStatusCode.ts
 domain: ssr
-extracted_at: "2026-02-01T15:22:42.903Z"
+extracted_at: "2026-02-01T17:31:03.232Z"
 ---
 
 ---
 source_repo: solid-start
 source_path: solid-start\packages\start\src\shared\HttpStatusCode.ts
 domain: unknown
-extracted_at: "2026-02-01T15:22:42.903Z"
+extracted_at: "2026-02-01T17:31:03.232Z"
 ---
 
 ## API Documentation 1

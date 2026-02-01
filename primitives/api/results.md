@@ -2,14 +2,14 @@
 source_repo: solid
 source_path: solid\packages\solid\bench\results.md
 domain: primitives
-extracted_at: "2026-02-01T15:22:42.733Z"
+extracted_at: "2026-02-01T17:31:03.058Z"
 ---
 
 ---
 source_repo: solid
 source_path: solid\packages\solid\bench\results.md
 domain: unknown
-extracted_at: "2026-02-01T15:22:42.733Z"
+extracted_at: "2026-02-01T17:31:03.058Z"
 ---
 
 # Benchmark Results (22/09/2022)

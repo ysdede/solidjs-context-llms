@@ -2,14 +2,14 @@
 source_repo: solid-router
 source_path: solid-router\README.md
 domain: routing
-extracted_at: "2026-02-01T15:22:42.720Z"
+extracted_at: "2026-02-01T17:31:03.043Z"
 ---
 
 ---
 source_repo: solid-router
 source_path: solid-router\README.md
 domain: unknown
-extracted_at: "2026-02-01T15:22:42.720Z"
+extracted_at: "2026-02-01T17:31:03.043Z"
 ---
 
 [![Banner](https://assets.solidjs.com/banner?project=Router&type=core)](https://github.com/solidjs)
