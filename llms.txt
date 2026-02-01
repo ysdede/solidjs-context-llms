@@ -1,0 +1,16 @@
+# SolidJS Context Knowledge Base
+
+> A structured alternative to a flat llms.txt file, optimized for AI agent discovery.
+
+## Details
+- Full Structured Index: [index.md](./index.md)
+- Root Metadata: [STRUCTURE.md](./STRUCTURE.md)
+
+## Domains
+- Core Reactivity: [Index](./core-reactivity/index.json)
+- Routing: [Index](./routing/index.json)
+- SSR: [Index](./ssr/index.json)
+- Primitives: [Index](./primitives/index.json)
+
+## Usage
+This documentation is organized into domains. AI agents should read the root index.md first to understand where specific primitives are located.
