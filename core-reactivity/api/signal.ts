@@ -2,7 +2,7 @@
 source_repo: solid
 source_path: solid\packages\solid\src\reactive\signal.ts
 domain: core-reactivity
-extracted_at: "2026-02-01T17:31:03.241Z"
+extracted_at: "2026-02-01T17:42:52.055Z"
 primitive: createEffect
 ---
 
@@ -10,7 +10,7 @@ primitive: createEffect
 source_repo: solid
 source_path: solid\packages\solid\src\reactive\signal.ts
 domain: unknown
-extracted_at: "2026-02-01T17:31:03.241Z"
+extracted_at: "2026-02-01T17:42:52.055Z"
 ---
 
 ## API Documentation 1

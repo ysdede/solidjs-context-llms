@@ -1,47 +1,42 @@
 ---
 source_repo: solid-docs
-source_path: solid-docs\src\routes\solid-router\index.mdx
+source_path: solid-docs\src\routes\solid-meta\index.mdx
 domain: routing
-extracted_at: "2026-02-01T17:31:03.070Z"
+extracted_at: "2026-02-01T17:42:51.884Z"
 ---
 
 ---
 source_repo: solid-docs
-source_path: solid-docs\src\routes\solid-router\index.mdx
+source_path: solid-docs\src\routes\solid-meta\index.mdx
 domain: unknown
-extracted_at: "2026-02-01T17:31:03.070Z"
+extracted_at: "2026-02-01T17:42:51.884Z"
 ---
 
 ---
-title: Solid Router Docs
+title: Solid Meta Docs
 nav_title: Overview
 titleTemplate: ":title"
+mainNavExclude: true
 use_cases: >-
-  understanding routing, learning basics, overview needed, getting started, spa
-  routing concepts
+  managing head tags, seo optimization, document metadata, dynamic meta tags,
+  ssr meta management
 tags:
+  - meta
+  - head
+  - seo
+  - ssr
   - overview
-  - introduction
-  - basics
-  - spa
-  - routing
-  - concepts
 version: '1.0'
 description: >-
-  Solid Router is the universal routing solution for Solid applications,
-  enabling client and server-side navigation in single-page applications.
+  Solid Meta provides asynchronous SSR-ready document head management. Define
+  meta tags at any component level for flexible SEO and metadata control.
 ---
 
 # Overview
 
-:::note[Prerequisites]
-	The docs are based on latest Solid Router.
-	To use this version, you need to have Solid v1.8.4 or later installed.
-:::
+Solid Meta offers asynchronous SSR-ready Document Head management for Solid Applications, based on [React Head](https://github.com/tizmagik/react-head)
 
-Solid Router is the universal router for Solid which works for rendering on the client or the server.
-It was inspired by and combines paradigms of [React Router](https://reactrouter.com/en/main) and the [Ember Router](https://guides.emberjs.com/release/routing/).
+With Solid Meta, you can define `document.head` tags at any level of your component hierarchy.
+This helps you to manage tags conveniently, especially when contextual information for specific tags are buried deep within your component hierarchy.
 
-A router provides a way to change a user's view based on the URL in the browser.
-This allows a "single-page" application to simulate a traditional multipage site.
-To use Solid Router, components called Routes that depend on the value of the URL (the "path") are specified, and the router handles the mechanism of swapping them in and out.
+This library has no dependencies and is designed to seamlessly integrate with asynchronous rendering.

@@ -2,14 +2,14 @@
 source_repo: solid
 source_path: solid\packages\solid\store\src\store.ts
 domain: core-reactivity
-extracted_at: "2026-02-01T17:31:03.238Z"
+extracted_at: "2026-02-01T17:42:52.051Z"
 ---
 
 ---
 source_repo: solid
 source_path: solid\packages\solid\store\src\store.ts
 domain: unknown
-extracted_at: "2026-02-01T17:31:03.238Z"
+extracted_at: "2026-02-01T17:42:52.051Z"
 ---
 
 ## API Documentation 1

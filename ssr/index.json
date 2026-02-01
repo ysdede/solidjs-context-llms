@@ -1,6 +1,6 @@
 {
   "domain": "ssr",
-  "generated_at": "2026-02-01T17:31:03.271Z",
+  "generated_at": "2026-02-01T17:42:52.085Z",
   "stats": {
     "total": 36,
     "api": 36,
@@ -73,13 +73,6 @@
         "summary": "API documentation for solid\\packages\\solid-ssr\\CHANGELOG.md"
       },
       {
-        "path": "solid-start\\apps\\fixtures\\notes\\README.md",
-        "name": "solid-start\\apps\\fixtures\\notes\\README.md",
-        "repo": "solid-start",
-        "primitive": null,
-        "summary": "API documentation for solid-start\\apps\\fixtures\\notes\\README.md"
-      },
-      {
         "path": "solid-start\\apps\\fixtures\\todomvc\\README.md",
         "name": "solid-start\\apps\\fixtures\\todomvc\\README.md",
         "repo": "solid-start",
@@ -87,11 +80,11 @@
         "summary": "API documentation for solid-start\\apps\\fixtures\\todomvc\\README.md"
       },
       {
-        "path": "solid-start\\apps\\fixtures\\hackernews\\README.md",
-        "name": "solid-start\\apps\\fixtures\\hackernews\\README.md",
+        "path": "solid-start\\apps\\fixtures\\notes\\README.md",
+        "name": "solid-start\\apps\\fixtures\\notes\\README.md",
         "repo": "solid-start",
         "primitive": null,
-        "summary": "API documentation for solid-start\\apps\\fixtures\\hackernews\\README.md"
+        "summary": "API documentation for solid-start\\apps\\fixtures\\notes\\README.md"
       },
       {
         "path": "solid-start\\apps\\fixtures\\nitro-3\\README.md",
@@ -101,11 +94,11 @@
         "summary": "API documentation for solid-start\\apps\\fixtures\\nitro-3\\README.md"
       },
       {
-        "path": "solid-start\\apps\\fixtures\\experiments\\README.md",
-        "name": "solid-start\\apps\\fixtures\\experiments\\README.md",
+        "path": "solid-start\\apps\\fixtures\\hackernews\\README.md",
+        "name": "solid-start\\apps\\fixtures\\hackernews\\README.md",
         "repo": "solid-start",
         "primitive": null,
-        "summary": "API documentation for solid-start\\apps\\fixtures\\experiments\\README.md"
+        "summary": "API documentation for solid-start\\apps\\fixtures\\hackernews\\README.md"
       },
       {
         "path": "solid-start\\apps\\fixtures\\css\\README.md",
@@ -113,6 +106,13 @@
         "repo": "solid-start",
         "primitive": null,
         "summary": "API documentation for solid-start\\apps\\fixtures\\css\\README.md"
+      },
+      {
+        "path": "solid-start\\apps\\fixtures\\experiments\\README.md",
+        "name": "solid-start\\apps\\fixtures\\experiments\\README.md",
+        "repo": "solid-start",
+        "primitive": null,
+        "summary": "API documentation for solid-start\\apps\\fixtures\\experiments\\README.md"
       },
       {
         "path": "solid-start\\apps\\fixtures\\basic\\README.md",

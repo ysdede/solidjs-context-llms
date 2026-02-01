@@ -2,14 +2,14 @@
 source_repo: signals
 source_path: signals\src\core\core.ts
 domain: core-reactivity
-extracted_at: "2026-02-01T17:31:03.229Z"
+extracted_at: "2026-02-01T17:42:52.043Z"
 ---
 
 ---
 source_repo: signals
 source_path: signals\src\core\core.ts
 domain: unknown
-extracted_at: "2026-02-01T17:31:03.229Z"
+extracted_at: "2026-02-01T17:42:52.043Z"
 ---
 
 ## API Documentation 1

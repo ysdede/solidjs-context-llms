@@ -2,14 +2,14 @@
 source_repo: solid
 source_path: solid\packages\babel-preset-solid\CHANGELOG.md
 domain: primitives
-extracted_at: "2026-02-01T17:31:03.053Z"
+extracted_at: "2026-02-01T17:42:51.866Z"
 ---
 
 ---
 source_repo: solid
 source_path: solid\packages\babel-preset-solid\CHANGELOG.md
 domain: unknown
-extracted_at: "2026-02-01T17:31:03.053Z"
+extracted_at: "2026-02-01T17:42:51.866Z"
 ---
 
 # babel-preset-solid

@@ -1,68 +1,74 @@
 ---
 source_repo: solid-docs
-source_path: solid-docs\src\routes\solid-router\getting-started\installation-and-setup.mdx
+source_path: solid-docs\src\routes\solid-meta\getting-started\installation-and-setup.mdx
 domain: routing
-extracted_at: "2026-02-01T17:31:03.099Z"
+extracted_at: "2026-02-01T17:42:51.926Z"
 ---
 
 ---
 source_repo: solid-docs
-source_path: solid-docs\src\routes\solid-router\getting-started\installation-and-setup.mdx
+source_path: solid-docs\src\routes\solid-meta\getting-started\installation-and-setup.mdx
 domain: unknown
-extracted_at: "2026-02-01T17:31:03.099Z"
+extracted_at: "2026-02-01T17:42:51.926Z"
 ---
 
 ---
-title: Installation and setup
+title: Install and configure
+order: 1
 use_cases: >-
-  starting new project, initial setup, configuring routing, spa applications,
-  client-side routing
+  initial setup, meta tags configuration, seo setup, head management setup, ssr
+  meta tags
 tags:
   - setup
   - installation
+  - meta
   - configuration
-  - spa
-  - routing
-  - getting-started
+  - seo
 version: '1.0'
 description: >-
-  Learn how to install and configure Solid Router for client and server-side
-  routing in your single-page applications with step-by-step setup guide.
+  Install and configure @solidjs/meta for head tag management. Set up dynamic
+  titles, meta tags, and SEO optimization in Solid apps.
 ---
 
-Solid Router is the universal router for Solid which works for rendering on the client or the server.
-It was inspired by and combines paradigms of [React Router](https://reactrouter.com/en/main) and the [Ember Router](https://guides.emberjs.com/release/routing/).
+:::note[Prerequisites]
+If using Solid `v1.0`, use version `0.27.x` or greater.
+For earlier versions (eg. `v0.x`), you must use `v0.26.x`.
+:::
 
-A router provides a way to change a user's view based on the URL in the browser.
-This allows a "single-page" application to simulate a traditional multipage site.
-To use Solid Router, components called Routes that depend on the value of the URL (the "path") are specified, and the router handles the mechanism of swapping them in and out.
+## Installation
+
+To get started, install using your preferred package manager.
+
+```package-install
+@solidjs/meta
+```
 
 ## Setup
 
-To get started with Solid Router, install it using your preferred package manager.
+1. Wrap your application with [``](/solid-meta/reference/meta/metaprovider)
+2. To include head tags within your application, render any of the following:
+	1. [``](/solid-meta/reference/meta/title): Adds the `title` of the page.
+	2. [``](/solid-meta/reference/meta/meta): Adds extra metadata to the page.
+	3. [``](/solid-meta/reference/meta/style): Adds a `style` element to the page.
+	4. [``](/solid-meta/reference/meta/link): Specifies a relationship between the page and an external resource.
+	5. [``](/solid-meta/reference/meta/base): Specifies the base URL for all relative URLs in the document.
+	6. [`useHead`](/solid-meta/reference/meta/use-head): Inserts arbitrary head tags when a dedicated component does not exist.
+- These components can be used multiple times within the application.
+3.  If using Solid on the server with JSX, no additional configuration is required.
 
-```package-install
-@solidjs/router
+Here is an example of how your code might look after this setup.
+```js
+import { MetaProvider, Title, Link, Meta } from "@solidjs/meta";
+
+const App = () => (
+	
+			
+			
+		
+	</MetaProvider>
+);
 ```
+On the server, tags are collected, and then on the client, server-generated tags are replaced with those rendered on the client side.
+This process is important for maintaining the expected behavior, such as Single Page Applications (SPAs) when pages load that require changes to the head tags.
 
-## Configure the routes
-
-The [`Router`](/solid-router/reference/components/router) component is the root component of the router.
-It is responsible for managing the URL and rendering the appropriate [`Route`](/solid-router/reference/components/route) based on the URL.
-
-To configure your routes, import the `Router` component and then start the application by rendering the router component.
-
-```jsx
-import { render } from "solid-js/web";
-import { Router } from "@solidjs/router";
-
-const wrapper = document.getElementById("app");
-
-if (!wrapper) {
-  throw new Error("Wrapper div not found");
-}
-
-render(() => , wrapper)
-```
-
-This sets up the router that will match on the url and render the appropriate route.
+However, you can manage asset insertion using `getAssets` from `solid-js/web`.
