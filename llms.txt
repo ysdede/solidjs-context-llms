@@ -2,15 +2,33 @@
 
 > A structured alternative to a flat llms.txt file, optimized for AI agent discovery.
 
-## Details
-- Full Structured Index: [index.md](./index.md)
-- Root Metadata: [STRUCTURE.md](./STRUCTURE.md)
+## Overview
 
-## Domains
-- Core Reactivity: [Index](./core-reactivity/index.json)
-- Routing: [Index](./routing/index.json)
-- SSR: [Index](./ssr/index.json)
-- Primitives: [Index](./primitives/index.json)
+This is a **hierarchical, multi-domain documentation system** for SolidJS. Unlike a single flat text file, this knowledge base is organized into specialized domains with navigable indexes.
+
+## Quick Start for AI Agents
+
+1. **Start Here**: [Root Index](https://ysdede.github.io/solidjs-context-llms/index.md)
+2. **Browse by Domain**: Use the domain-specific JSON indexes below
+3. **Deep Dive**: Access individual API references and examples
+
+## Domain Indexes
+
+- **Core Reactivity**: [index.json](https://ysdede.github.io/solidjs-context-llms/core-reactivity/index.json) - Signals, Effects, Memos
+- **Routing**: [index.json](https://ysdede.github.io/solidjs-context-llms/routing/index.json) - solid-router components and hooks
+- **SSR**: [index.json](https://ysdede.github.io/solidjs-context-llms/ssr/index.json) - Server-Side Rendering, Hydration, SolidStart
+- **Primitives**: [index.json](https://ysdede.github.io/solidjs-context-llms/primitives/index.json) - Helper utilities and ecosystem tools
+
+## Structure
+
+- **Root Metadata**: [STRUCTURE.md](https://ysdede.github.io/solidjs-context-llms/STRUCTURE.md)
+- **Repository**: [GitHub](https://github.com/ysdede/solidjs-context-llms)
 
 ## Usage
-This documentation is organized into domains. AI agents should read the root index.md first to understand where specific primitives are located.
+
+This documentation is organized into domains. AI agents should:
+1. Read the root `index.md` to understand the overall structure
+2. Use domain-specific `index.json` files to locate relevant content
+3. Access individual files on-demand to avoid context-window overflow
+
+**Total Coverage**: 317 files across 4 domains (Core Reactivity, Routing, SSR, Primitives)
